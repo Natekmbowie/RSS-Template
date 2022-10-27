@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
+<!-- Simple RSS Template by Nate K.M. Bowie, MIT License -->
 	<channel>
 	<title>Subscription Name</title>
 	<link>https://example.com</link>
