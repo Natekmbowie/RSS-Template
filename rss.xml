@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Subscription Name</title>
+	<link>https://example.com</link>
+	<description>A quick homebrew example feed.</description>
+		<item>
+	 <title>Example Post 2</title>
+	 <pubDate>Sun, 16 Oct 2022 19:00:00 -0400</pubDate>
+	 <link>https://example.com/post2</link>
+	 <description>An example post</description>
+	
+	
+	
+	</item>
+	<item>
+	 <title>Example Post 1</title>
+	 <pubDate>Tue, 26 Jan 2021 19:00:00 -0400</pubDate>
+	 <link>https://example.com/post2</link>
+	 <description>An example post</description>
+	
+	
+	
+	</item>
+
+</channel>
+</rss>
